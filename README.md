@@ -1,9 +1,6 @@
 # 🎱 8 Ball Pool Aim Hack Cheat: Precision, Power, Possibility
 
-![Stars](https://img.shields.io/github/stars/8ballpool/aimhack?color=gold&style=flat-square)
-![Forks](https://img.shields.io/github/forks/8ballpool/aimhack?color=lightblue&style=flat-square)
-![Issues](https://img.shields.io/github/issues/8ballpool/aimhack?color=orange&style=flat-square)
-![License](https://img.shields.io/github/license/8ballpool/aimhack?color=green&style=flat-square)
+[![Stars](https://img.shields.io/badge/Stars-10-yellow?style=for-the-badge&logo=github)](https://github.com/colonylegendsport/Endfield-trainer/stargazers)
 
 **Turn your shots into masterpieces**—with the legendary 8 Ball Pool Aim Hack Cheat, your every move is calculated, empowered, and precise. This comprehensive toolkit for cue sports fans blends AI-enhanced guidance, dazzling user interface magic, and seamless compatibility for the most popular OS flavors.
 
